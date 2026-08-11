@@ -16,8 +16,6 @@ A structured repository documenting my journey of learning **Python for Data Ana
 | Project                  | Description                                           |
 | ------------------------ | ----------------------------------------------------- |
 | **Superstore Sales EDA** | Retail sales, profit, discount, and regional analysis |
-| **Netflix EDA**          | Content trends and genre analysis *(upcoming)*        |
-| **Blinkit EDA**          | Grocery and customer behavior analysis *(upcoming)*   |
 
 ➡️ Detailed project documentation is available inside the **Projects/** directory.
 
