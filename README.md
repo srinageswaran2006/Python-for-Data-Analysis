@@ -27,7 +27,6 @@ Python-for-Data-Analysis/
 ├── 03_Pandas/
 ├── 04_Matplotlib/
 ├── 05_Seaborn/
-├── 06_Statistics/
 ├── Datasets/
 ├── Projects/
 └── README.md
@@ -87,37 +86,25 @@ Python-for-Data-Analysis/
 * Pairplots
 * Statistical Visualizations
 
-### 📊 06 — Statistics
-
-* Descriptive Statistics
-* Correlation Analysis
-* Skewness & Kurtosis
-* Outlier Detection
-* Distribution Interpretation
-* Business-Oriented Statistical Insights
-
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Project
 
 ### 📊 Superstore Sales EDA
 
-An end-to-end exploratory data analysis project using a real retail dataset.
+An end-to-end exploratory data analysis project using the **Superstore retail dataset**.
 
-**Key Highlights**
+**What the project includes**
 
 * Data cleaning and preprocessing
-* Time-series sales analysis
+* Monthly sales and profit trend analysis
 * Category and regional performance analysis
-* Profitability and discount impact analysis
-* Correlation analysis using heatmaps
-* Business-focused observations and recommendations
+* Customer segment analysis
+* Sales distribution and profitability analysis
+* Correlation heatmap and business insights
 
-### 🔜 Upcoming Projects
+📁 **Location:** `Projects/Superstore_Sales_EDA/`
 
-* 🎬 **Netflix EDA**
-* 🛒 **Blinkit EDA**
-* 📦 **Additional retail and business datasets**
 
 ---
 
@@ -149,8 +136,7 @@ This repository serves as both:
 * ✅ Pandas
 * ✅ Matplotlib
 * ✅ Seaborn
-* 🔄 Statistics
-* 🚀 Building multiple real-world EDA projects
+* 🚀 Building real-world EDA projects
 
 ---
 
