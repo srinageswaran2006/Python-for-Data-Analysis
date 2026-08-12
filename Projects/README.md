@@ -9,7 +9,6 @@ A structured repository documenting my journey of learning **Python for Data Ana
 * Pandas
 * Matplotlib
 * Seaborn
-* Statistics
 
 ## 💼 Projects
 
