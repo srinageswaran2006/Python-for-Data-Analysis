@@ -51,13 +51,27 @@ The goal of this project was to practice **Pandas, Matplotlib, and Seaborn** whi
 
 ---
 
-## 🔍 Main Insights
+## 📌 Key Findings
 
-* Most orders are **low-value sales**.
-* **Technology** is generally the most profitable category.
-* **Office Supplies** has the most stable profit distribution.
-* Higher sales usually lead to higher profit, but not always.
-* Larger discounts tend to reduce profit.
+* The **sales distribution is highly right-skewed**, with the majority of orders concentrated below **$500**, while a small number of high-value transactions create a long tail extending beyond **$20,000**.
+
+* **Technology** shows the **highest median profit** among all categories, indicating that it consistently generates stronger profits than Furniture and Office Supplies.
+
+* **Office Supplies** has the **narrowest interquartile range (IQR)** and shorter whiskers, suggesting that its profits are **more stable and less volatile** compared with the other categories.
+
+* **Furniture** contains several **negative-profit outliers**, showing that although many orders are profitable, a noticeable number of transactions result in substantial losses.
+
+* The **Technology** category also exhibits the **widest spread of profit values**, with both very high profits and significant losses, making it the category with the **highest profit variability**.
+
+* The **Sales vs Profit** analysis reveals a **moderate positive relationship** (**correlation ≈ 0.48**), meaning that higher sales generally tend to increase profit, but the relationship is not strong enough to guarantee profitability.
+
+* Several **high-sales orders still produce negative profits**, indicating that **large revenue does not always translate into positive business performance**.
+
+* The **Discount vs Profit** relationship shows a **negative correlation** (**≈ -0.22**), suggesting that increasing discounts tends to reduce profitability and may contribute to loss-making orders.
+
+* **Quantity** has only a **weak positive relationship with sales** (**≈ 0.20**) and an almost negligible relationship with **profit** (**≈ 0.07**), implying that simply selling more units does not significantly improve profitability.
+
+* Overall, the business appears to be **revenue-driven**, with **Technology acting as the primary profit engine**, while **Furniture requires closer pricing and discount control to reduce losses and improve margins**.
 
 ---
 
